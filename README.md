@@ -16,6 +16,7 @@ Usage
 from report_analysis.analyzer import analyze_report
 
 text = input("Write the report here: ")
+
 analyze_report(text)
 
 
